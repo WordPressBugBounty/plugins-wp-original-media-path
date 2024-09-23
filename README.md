@@ -1,0 +1,1 @@
+# plugins-wp-original-media-path
